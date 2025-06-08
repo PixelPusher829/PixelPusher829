@@ -26,8 +26,8 @@ Outside of coding, my passion lies in crafting generative music with modular syn
 ## 📊 GitHub Stats & Badges
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PixelPusher829&show_icons=true&hide_title=true&theme=radical" alt="James's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixelPusher829&layout=compact&theme=radical" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PixelPusher829&show_icons=true&hide_title=true&theme=default" alt="James's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixelPusher829&layout=compact&theme=defauly" alt="Top Languages" height="160" />
 </p>
 
 <br>
