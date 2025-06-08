@@ -23,7 +23,7 @@ Outside of coding, my passion lies in crafting generative music with modular syn
   <img src="https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white" alt="Webflow" />
 </p>
 
-## 📊 GitHub Stats & Badges
+<br>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=PixelPusher829&show_icons=true&hide_title=true&theme=default" alt="James's GitHub Stats" height="160" />
