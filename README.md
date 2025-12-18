@@ -35,5 +35,5 @@ Outside of coding, my passion lies in crafting generative music with modular syn
 
 **Check out my work 👇**
 
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-22223b?style=for-the-badge&logo=githubpages&logoColor=f2e9e4&color=4a4e69)](https://pixelpusher829.github.io/Personal-Portfolio/)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-22223b?style=for-the-badge&logo=githubpages&logoColor=f2e9e4&color=4a4e69)](https://jamesbarnes.ca/)
 
