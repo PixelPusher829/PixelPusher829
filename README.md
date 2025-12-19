@@ -2,7 +2,7 @@
 
 I'm James Barnes, a **Front-End Web Developer** who truly loves bringing art and code together to build cool stuff. My design background is a huge part of how I approach things; it's what kicked off my journey into web development as a freelancer, where I learned a ton creating custom websites, unique UI, and user experiences that just feel right.
 
-I'm a passionate advocate for **Svelte**, championing its approach to a streamlined development experience for interfaces and helping to move its ecosystem forward. I always enjoy diving into new modern web tech. I got my start with WordPress and Webflow, building custom sites and learning how to shape interfaces from the ground up. Since then my toolkit has expanded into modern front‑end development with **React, SASS, Tailwind, TypeScript, and Astro.** I’m also developing a growing curiosity for **Vue**, but **Svelte** still remains my favourite place to build. 
+I'm a passionate advocate for **Svelte**, championing its approach to a streamlined development experience for interfaces and helping to move its ecosystem forward. I always enjoy diving into new modern web tech. I got my start with WordPress and Webflow, building custom sites and learning how to shape interfaces from the ground up. Since then my toolkit has expanded into modern front‑end development with **React, SASS, Tailwind, GSAP, TypeScript, and Astro.** I’m also developing a growing curiosity for **Vue**, but **Svelte** still remains my favourite place to build. 
 
 Outside of coding, my passion lies in crafting generative music with modular synths such as **Bitwig** and **VCV Rack**. I'm fascinated by the dynamic intersection of art and technology that this allows me to explore.
 
@@ -23,10 +23,10 @@ Outside of coding, my passion lies in crafting generative music with modular syn
 <img src="https://img.shields.io/badge/JavaScript-D6BE00?style=flat&logo=javascript&logoColor=white" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white" alt="SASS" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
 <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white" alt="Svelte" />
 <img src="https://img.shields.io/badge/React-3C8BBF?style=flat&logo=react&logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white" alt="Astro" />
 <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress" />
 <img src="https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white" alt="Webflow" />
 </p>
