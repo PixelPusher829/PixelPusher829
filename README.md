@@ -22,6 +22,7 @@ Outside of coding, my passion lies in crafting generative music with modular syn
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/JavaScript-D6BE00?style=flat&logo=javascript&logoColor=white" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white" alt="SASS" />
 <img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
 <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white" alt="Svelte" />
