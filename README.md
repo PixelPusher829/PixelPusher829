@@ -2,7 +2,7 @@
 
 I'm James Barnes, a **Front-End Web Developer** who truly loves bringing art and code together to build cool stuff. My design background is a huge part of how I approach things; it's what kicked off my journey into web development as a freelancer, where I learned a ton creating custom websites, unique UI, and user experiences that just feel right.
 
-I'm a passionate advocate for **Svelte**, championing its approach to a streamlined development experience for interfaces and helping to move its ecosystem forward. I always enjoy diving into new modern web tech. I got my start with **WordPress and Webflow**, and since then my toolbox has grown to include **React, JavaScript, SASS, Tailwind, and TypeScript**. Whether I'm crafting clean interfaces or just messing around with creative coding, I'm always aiming for work that's efficient, well-made, and looks awesome.
+I'm a passionate advocate for **Svelte**, championing its approach to a streamlined development experience for interfaces and helping to move its ecosystem forward. I always enjoy diving into new modern web tech. I got my start with **WordPress and Webflow**, and since then my toolbox has grown to include **React, SASS, Tailwind, and TypeScript**. Whether I'm crafting clean interfaces or just messing around with creative coding, I'm always aiming for work that's efficient, well-made, and looks awesome.
 
 Outside of coding, my passion lies in crafting generative music with modular synths such as Bitwig and VCV Rack. I'm fascinated by the dynamic intersection of art and technology that this allows me to explore.
 
